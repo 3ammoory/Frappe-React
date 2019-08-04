@@ -1,0 +1,39 @@
+{
+  "editor.formatOnSave": true,
+  // Enable per-language
+  "[javascript]": {
+    "editor.formatOnSave": true
+  },
+  "[json]": {
+    "editor.formatOnSave": true
+  },
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx",
+    "xml": {
+      "attr_quotes": "single"
+    }
+  },
+  "javascript.validate.enable": false,
+  "workbench.editor.enablePreview": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "prettier.trailingComma": "all",
+  "bracketPairColorizer.forceIterationColorCycle": true,
+  "editor.fontLigatures": true,
+  "editor.cursorWidth": 3,
+  "editor.renderWhitespace": "all",
+  "editor.snippetSuggestions": "top",
+  "editor.minimap.enabled": false,
+  "terminal.integrated.fontWeight": "400",
+  "editor.fontFamily": "Hack",
+  "window.zoomLevel": 0,
+  "files.trimTrailingWhitespace": true,
+  "files.trimFinalNewlines": true,
+
+  "prettier.bracketSpacing": true,
+  "terminal.integrated.lineHeight": 1.6,
+  "workbench.colorTheme": "Night Owl",
+  // SOP's Import Cost Extension Settings.
+  "importCost.largePackageColor": "#EC3A37F5",
+  "importCost.mediumPackageColor": "#B362FF",
+  "importCost.smallPackageColor": "#B362FF"
+}
